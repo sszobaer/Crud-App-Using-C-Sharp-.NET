@@ -6,7 +6,7 @@ Desktop CRUD App Written In C#(.NET Framework)
 
 ## Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![0819(1)](https://github.com/user-attachments/assets/2389887b-9a91-4f69-b009-0498fe029c0c)
 
 
 ### Bulit With
