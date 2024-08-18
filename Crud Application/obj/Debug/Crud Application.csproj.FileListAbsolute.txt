@@ -1,0 +1,10 @@
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\bin\Debug\Crud Application.exe.config
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\bin\Debug\Crud Application.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\bin\Debug\Crud Application.pdb
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud Application.csproj.AssemblyReference.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud_Application.Form1.resources
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud_Application.Properties.Resources.resources
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud Application.csproj.GenerateResource.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud Application.csproj.CoreCompileInputs.cache
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud Application.exe
+C:\Users\zobae\OneDrive - American International University-Bangladesh\Desktop\Crud App\Crud Application\Crud Application\obj\Debug\Crud Application.pdb
