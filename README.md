@@ -6,7 +6,11 @@ Desktop CRUD App Written In C#(.NET Framework)
 
 ## Preview
 
-![0819(1)](https://github.com/user-attachments/assets/2389887b-9a91-4f69-b009-0498fe029c0c) ![Screenshot 2024-08-19 003127](https://github.com/user-attachments/assets/4a38f115-651d-44fb-9fbd-abcf4aebe6d1)
+![0819(1)](https://github.com/user-attachments/assets/2389887b-9a91-4f69-b009-0498fe029c0c) 
+
+![Screenshot 2024-08-19 225202](https://github.com/user-attachments/assets/d69719c4-7416-4304-8be3-52d197639fec)
+
+
 
 
 
