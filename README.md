@@ -56,9 +56,13 @@ SELECT * FROM CATable WHERE id=@id
 ```
 ## Tech Stack
 
-**Client:** C#, .NET, MS SQL
-
-**Server:** SQL Server
+**Programming Language:** C#
+**Database:** SQL Server
+**Framework:** Windows Forms
+**UI Components:** 
+    -Text Box for entering data.
+    - Button for response.
+    - Data Grid View for displaying and managing data
 
 
 ## 🛠 Skills
