@@ -56,9 +56,9 @@ SELECT * FROM CATable WHERE id=@id
 ```
 ## Tech Stack
 
-**Programming Language:** C# <br>
-**Database:** SQL Server<br>
-**Framework:** Windows Forms<br>
+**Programming Language:** C# <br><br>
+**Database:** SQL Server<br><br>
+**Framework:** Windows Forms<br><br>
 **UI Components:** <br>
     -Text Box for entering data.<br>
     - Button for response.<br>
